@@ -1,2 +1,3 @@
-Clean Code
-Percy Jackson Series
+Clean Code - Robert C. Martin
+Percy Jackson Series - Rick Riordan
+Bilhões e Bilhões - Carl Sagan
